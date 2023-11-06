@@ -1,2 +1,1 @@
-# lookingfor
-simple full text search engine
+# LookingFor: A simple Full Text Search Engine
